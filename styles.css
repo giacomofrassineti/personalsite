@@ -1,0 +1,155 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', serif;
+  font-size: 70px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.7rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 2.5%;
+  margin: 20px none 40px none;
+}
+
+p {
+  line-height: 2;
+}
+
+.bottom-link {
+  color: 11999E;
+  font-family: Montserrat;
+  margin: 10px 20px;
+  position: relative;
+  right: 25px;
+  text-decoration: none;
+}
+
+a.bottom-link:hover {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 550px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 550px;
+  top: 50px;
+}
+
+.middle-container {
+  background-color: white;
+  color: #40514E;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.bottom-container {
+  padding-top: 5px;
+  padding-bottom: 30px;
+  background-color: #E4F9F5;
+  color: #11999E;
+}
+
+.contact-me {
+  padding-top: 20px;
+  line-height: 2;
+}
+
+.skills {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.profile {
+  padding-bottom: 30px;
+}
+
+.skill-row-2 {
+  padding-bottom: 30px;
+}
+
+.img-1 {
+  float: left;
+  padding-right: 30px;
+}
+
+.img-2 {
+  float: right;
+  padding-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 31;
+  -moz-border-radius: 31;
+  border-radius: 31px;
+  font-family: Georgia;
+  color: #290629;
+  font-size: 17px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.btn:hover {
+  background: #2dbdbd;
+  background-image: -webkit-linear-gradient(top, #2dbdbd, #7aabcc);
+  background-image: -moz-linear-gradient(top, #2dbdbd, #7aabcc);
+  background-image: -ms-linear-gradient(top, #2dbdbd, #7aabcc);
+  background-image: -o-linear-gradient(top, #2dbdbd, #7aabcc);
+  background-image: linear-gradient(to bottom, #2dbdbd, #7aabcc);
+  text-decoration: none;
+
+}
+
+.atext {
+  color: #40514E;
+  font-size: 80%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.intro-text {
+  width: 55%;
+  margin: auto;
+}
+
+.contact-text-1 {
+  margin: 40px auto 40px;
+}
+
+.link-2 {
+  margin: 40px auto 40px;
+}
